@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(30, 75, 210);
+    text-align: center;
+}
+
+.container{
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.game{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.2vmin;
+}
+
+.box{
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 0.5rem;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0,0,0,0.3);
+    font-size: 12vmin;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+#reset-btn{
+    border: none;
+    padding: 1rem;
+    font-size: 3vmin;
+    font-weight: bold;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    background-color: rgb(5, 252, 215);
+    box-shadow: 0 0 1rem rgba(0,0,0,0.3);
+}
+
+h1{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:2rem;
+}
+
+#new-btn{
+    border: none;
+    padding: 0.5rem;
+    font-size: 3vmin;
+    font-weight: bold;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    background-color: rgb(5, 252, 215);
+    box-shadow: 0 0 1rem rgba(0,0,0,0.3);
+}
+
+#msg{
+    color: rgb(249, 208, 3);
+    font-size: 5vmin;
+}
+
+.msg-container{
+    height: 15vmin;
+}
+
+.hide{
+    display: none;
+}
+
+
