@@ -1,4 +1,4 @@
-## Tic Tac Toe Game
+## Tic Tac Toe Game 🎮
 This is a simple, interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. The game allows two players to compete against each other. It includes features such as displaying the winner, a new game button, and a reset game button. The game is fully responsive and adapts to different screen sizes for optimal user experience.
 
 ## Features
