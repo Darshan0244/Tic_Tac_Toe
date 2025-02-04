@@ -13,8 +13,8 @@ This is a simple, interactive Tic Tac Toe game built using HTML, CSS, and JavaSc
 - CSS: Styling for the game layout, buttons, and responsiveness.
 - JavaScript: Game logic to handle player turns, determine the winner, and manage game resets.
   
-## How to Play
-- Open the game in your browser.
+## How to Play [ Link ] :- https://darshan0244.github.io/Tic_Tac_Toe/
+- Open the game in your browser. 
 - Two players take turns clicking on the squares in the 3x3 grid.
 - The first player to align three of their marks (X or O) in a horizontal, vertical, or diagonal row wins the game.
 - If all squares are filled without a winner, the game ends in a draw.
